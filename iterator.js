@@ -134,9 +134,17 @@ console.log(awardStudents)
 // 读取每个人的成绩，没有返回值
 students.forEach(item => {
     console.log(`${item.name}同学的成绩为${item.grade}`);
-
+    // 输出：
+    // Bob同学的成绩为100
+    // Peter同学的成绩为75
+    // Lynn同学的成绩为80
+    // Jack同学的成绩为95
 })
+
 // 获取获得奖励同学，没有返回值
 awardStudents.forEach(item2 => {
     console.log(`获得奖励的同学有${item2.name}`)
+    // 输出：
+    // 获得奖励的同学有Bob
+    // 获得奖励的同学有Jack
 })
