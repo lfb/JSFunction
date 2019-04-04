@@ -1,5 +1,5 @@
-# fetchjs
-JS各种常用方法汇总
+# JS Function
+JS各种实用方法Demo
 
 ## 数组
 - [x] [数组去重 - unique.js](https://github.com/liangfengbo/JSFunction/blob/master/unique.js)
